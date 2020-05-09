@@ -478,7 +478,7 @@ Aber was ist, wenn die Dinge *immer noch* schief gehen? Die Dinge sind ja bereit
 
 Der Pessimist erfindet den Fallschirm.
 
-###Szenario 4+: Masken für alle, Sommer, Notschalter-Lockdown!
+###Szenario 4+: Masken für alle, Sommer, Kurzschluss-Lockdown!
 <!-- circuit breaker als Lockdown?! Übersetzung fehlt-->
 
 Was wäre, wenn R<sub>0</sub> viel größer wäre als wir glauben und wir es trotz der Maßnahmen nicht schaffen würden, R auf unter 1 zu drücken? 
@@ -543,17 +543,17 @@ Für COVID-19 führt ein Temperaturanstieg von jedem 1° Celsius (1,8° Fahrenhe
 
 Der Sommer allein wird R nicht unter 1 senken, aber wenn wir eingeschränkte Mittel haben, können wir einige Maßnahmen im Sommer lockern und im Winter wieder *stärker* anziehen. 
 
-**Ein "Notschalter"-*Lockdown*:**
+**Ein "Kurzschluss"-*Lockdown*:**
 
 Und wenn das alles *immer noch* nicht genug ist, R auf unter 1 zu bringen, können wir einen anderen Lockdown versuchen. 
 
-Aber wir müssten nicht immer wieder 2-Monate schließen und einen Monat öffnen. Weil R reduziert wäre, genügten nur ein oder zwei weitere "Notschalter"-Lockdowns, bis ein Impfstoff verfügbar ist. (Singapur musste dies "trotz" der 4-monatigen Kontrolle von COVID-19 machen. Das ist kein Versagen, ganz im Gegenteil: dadurch *wird* es zum Erfolg.)
+Aber wir müssten nicht immer wieder 2-Monate schließen und einen Monat öffnen. Weil R reduziert wäre, genügten nur ein oder zwei weitere "Kurzschluss"-Lockdowns, bis ein Impfstoff verfügbar ist. (Singapur musste dies "trotz" der 4-monatigen Kontrolle von COVID-19 machen. Das ist kein Versagen, ganz im Gegenteil: dadurch *wird* es zum Erfolg.)
 
 Hier ist eine Simulation eines "lazy case"-Szenarios: 
 
 1. Lockdown, danach
 2. Ein moderater Mix von Hygiene, "Testen, Nachverfolgen & Isolieren" sowie annehmbarer Maskenpflicht, danach ...
-3. ein "Notschalter"-Lockdown, bevor ein Impfstoff entwickelt wird.  
+3. ein "Kurzschluss"-Lockdown, bevor ein Impfstoff entwickelt wird.  
 
 <div class="sim">
 		<iframe src="sim?stage=int-7&format=lines&height=620" width="800" height="620"></iframe>
