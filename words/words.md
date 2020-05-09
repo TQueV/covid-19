@@ -620,20 +620,20 @@ Für die folgenden Simulationen, lass uns annehmen dass es 1 Jahr ist.
 		<iframe src="sim?stage=yrs-1&format=lines&height=600" width="800" height="600"></iframe>
 </div>
 
-Rückkehr des exponentiellen Zerfalls!
+Die Rückkehr des exponentiellen Zerfalls!
 
 Das ist das **SEIRS Modell**. Das letzte "S" steht wieder für <icon s></icon> "Susceptible" (anfällig).
 
 ![](pics/seirs.png)
 
-Lass uns jetzt einen COVID-19 Ausbruch über 10 Jahre, ohne Maßnahmen simulieren... *wenn Immunität nur ein Jahr anhält:*
+Lass uns jetzt einen COVID-19 Ausbruch über 10 Jahre, ohne Maßnahmen, simulieren ... *wenn Immunität nur ein Jahr anhält:*
 
 <div class="sim">
 		<iframe src="sim?stage=yrs-2&format=lines&height=600" width="800" height="600"></iframe>
 </div>
 
-In vorangegangen Simulationen hatten wir nur *eine* die Intensivstationen überfordernde Spitze. Jetzt haben wir mehrere und die <icon i></icon> Fälle pendeln sich *dauerhaft* bei der Kapazität der Intensivstationen ein.
-(Denk dran, diese hatten wir für diese Simulationen *verdreifacht*.)
+In vorangegangen Simulationen hatten wir nur *eine* die Intensivstationen überfordernde Spitze. Jetzt haben wir mehrere *und* die <icon i></icon> Fälle pendeln sich *dauerhaft* bei der Kapazität der Intensivstationen ein.
+(Denk dran, diese haben wir für diese Simulationen *verdreifacht*.)
 
 R = 1, es ist **endemisch.**
 
@@ -646,11 +646,11 @@ Zum Glück reduziert der Sommer R, was die Situation verbessert:
 Oh.
 
 
-Überraschenderweise macht der Sommer die Spitzen schlimmer *und* regelmäßig! Das liegt daran, dass der Sommer die neuen <icon i></icon>s absenkt, was aber wiederum die neuen imunen <icon r></icon>s absenkt. Das bedeutet, Immunität stürzt im Sommer ab was eine große, wiederkehrende Spitze im Winter *erzeugt*.
+Überraschenderweise macht der Sommer die Spitzen schlimmer *und* regelmäßig! Das liegt daran, dass der Sommer die neuen <icon i></icon>s senkt, was aber wiederum die neuen immunen <icon r></icon>s reduziert. Das bedeutet, Immunität stürzt im Sommer ab, und *erzeugt* eine große, wiederkehrende Spitze im Winter.
 
-Zum Glück ist die Lösung hierfür recht klar – impft die Menschen jeden Herbst/Winter, so wie es auch mit den Grippeimpfungen gemacht wird:
+Zum Glück ist die Lösung hierfür recht klar – impft die Menschen jeden Herbst/Winter, so wie es auch mit Grippeimpfungen gemacht wird:
 
-**(Nachdem du die Aufnahme abgespielt hast, versuche deine eigenen Impfkampagnen zu simulieren! Denk dran, dass du die Simulation jederzeit pausieren/fortsetzen kannst.)**
+**(Nachdem du die Aufnahme abgespielt hast, versuche, deine eigenen Impfkampagnen zu simulieren! Denk dran, dass du die Simulation jederzeit pausieren/fortsetzen kannst.)**
 
 <div class="sim">
 		<iframe src="sim?stage=yrs-4&format=lines" width="800" height="540"></iframe>
